@@ -4,7 +4,7 @@ kind: Service
 
 metadata: 
   name: redis
-  label: demo-voting-app
+  labels: demo-voting-app
 
 spec:
   ports:
